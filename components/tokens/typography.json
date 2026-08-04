@@ -1,0 +1,42 @@
+{
+  "font": {
+    "primary": {
+      "family": "Anton",
+      "style": "Regular",
+      "fallback": "sans-serif"
+    }
+  },
+  "weights": {
+    "regular": 400
+  },
+  "roles": {
+    "title": {
+      "family": "Anton",
+      "weight": "regular"
+    },
+    "subtitle": {
+      "family": "Anton",
+      "weight": "regular"
+    },
+    "body": {
+      "family": "Secondary Font",
+      "weight": "regular"
+    },
+    "cta": {
+      "family": "Anton",
+      "weight": "regular"
+    }
+  },
+  "rules": {
+    "primaryFont": "Anton",
+    "secondaryFontsAllowed": true,
+    "preferShortTitles": true,
+    "preferShortParagraphs": true,
+    "avoid": [
+      "decorative fonts",
+      "handwritten fonts",
+      "excessive text effects",
+      "poor hierarchy"
+    ]
+  }
+}
