@@ -141,3 +141,24 @@ El usuario debe terminar la publicación entendiendo por qué una abertura de ca
 No debe sentirse como un catálogo de productos.
 
 Debe sentirse como una solución para un proyecto real.
+---
+
+# Casos especiales
+
+## Cuando la pieza comunica un único beneficio
+
+Utilizar únicamente los componentes necesarios.
+
+Componentes recomendados:
+
+- TITLE_PRIMARY
+- Texto de apoyo
+- ICON_STANDARD (opcional)
+- CTA_PRIMARY (opcional)
+- LOGO_PLACEMENT_STANDARD
+
+No utilizar CARD_STANDARD si solamente existe un beneficio principal.
+
+Cada componente debe cumplir una función clara.
+
+Si un componente no aporta información, debe eliminarse.

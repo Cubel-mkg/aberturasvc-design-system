@@ -1,0 +1,31 @@
+{
+  "brand": {
+    "primary": {
+      "name": "Corporate Blue",
+      "hex": "#074584",
+      "usage": [
+        "buttons",
+        "cta",
+        "badges",
+        "highlights",
+        "brand elements"
+      ]
+    }
+  },
+  "neutral": {
+    "white": "#FFFFFF",
+    "black": "#111111",
+    "grayLight": "#F5F5F5"
+  },
+  "rules": {
+    "primaryColor": "brand.primary",
+    "background": "neutral.white",
+    "text": "neutral.black",
+    "avoid": [
+      "gradients",
+      "fluorescent colors",
+      "random brand colors",
+      "low contrast combinations"
+    ]
+  }
+}

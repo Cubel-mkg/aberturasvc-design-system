@@ -1,4 +1,5 @@
 # BRAND.md
+# TYPOGRAPHY.md - VERSION PRUEBA 2026
 # Brand Identity
 
 # Aberturas VC

@@ -154,3 +154,19 @@ El color debe reforzar la identidad.
 Nunca debe convertirse en el protagonista del diseño.
 
 El protagonista siempre será el mensaje y la fotografía.
+---
+
+# Relación con otros documentos
+
+Este documento define únicamente el uso estratégico de los colores.
+
+Los valores técnicos (HEX, RGB, variables y tokens) se encuentran en:
+
+components/tokens/colors.json
+
+Las reglas de aplicación visual se complementan con:
+
+- design/VISUAL_DNA.md
+- design/COMPOSITION.md
+- components/BUTTONS.md
+- components/BADGES.md

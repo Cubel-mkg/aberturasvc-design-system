@@ -1,0 +1,29 @@
+{
+  "style": {
+    "type": "outline",
+    "cornerStyle": "rounded",
+    "stroke": 2
+  },
+  "usage": {
+    "preferred": [
+      "security",
+      "thermal insulation",
+      "acoustic insulation",
+      "quality",
+      "architecture",
+      "comfort",
+      "installation"
+    ],
+    "avoid": [
+      "cartoon",
+      "3d",
+      "emoji",
+      "hand drawn"
+    ]
+  },
+  "rules": {
+    "maintainConsistency": true,
+    "sameStrokeWidth": true,
+    "sameVisualStyle": true
+  }
+}
