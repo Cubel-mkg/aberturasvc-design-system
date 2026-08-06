@@ -116,3 +116,32 @@ El formato utilizado sigue el principio de Keep a Changelog.
 - Nuevos canales.
 - Automatización.
 - Integración con herramientas de IA.
+
+# Changelog
+
+## [2.0.0] - 2026-08-05
+
+### Added
+
+- Nuevo documento CAMPAIGN_STRATEGY.md.
+- Nueva estrategia de selección de audiencias.
+- Nuevo flujo estratégico de campañas.
+- Priorización por objetivo comercial.
+
+### Changed
+
+- Reescritura completa de AUDIENCE.md.
+- Reescritura completa de DECISION_TREE.md.
+- Eliminación de reglas duplicadas y contradictorias.
+- Nueva definición de públicos principales:
+  - Arquitectos
+  - Constructoras
+  - Clientes particulares
+- Reemplazo de "Públicos secundarios" por "Públicos compatibles".
+- Nuevo proceso de selección de campañas basado en estrategia.
+
+### Fixed
+
+- Eliminadas referencias a "Familias" como segmento principal.
+- Eliminadas referencias a "Desarrolladores" como público principal.
+- Eliminadas contradicciones entre AUDIENCE.md y DECISION_TREE.md.
