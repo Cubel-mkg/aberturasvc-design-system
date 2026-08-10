@@ -80,8 +80,6 @@ Los principales públicos son:
 
 - Arquitectos
 - Constructoras
-- Desarrolladores
-- Familias construyendo su hogar
 - Clientes particulares
 
 ---
@@ -252,3 +250,23 @@ Si durante una tarea se detecta una oportunidad de mejorar el Design System, la 
 Nunca modificar el estilo de la marca sin una justificación clara.
 
 La evolución debe ser incremental, nunca disruptiva.
+---
+
+# Flujo obligatorio
+
+Antes de responder cualquier solicitud seguir este orden:
+
+1. MASTER_WORKFLOW.md
+2. OUTPUT_MODE.md
+
+La documentación del proyecto debe utilizarse para tomar decisiones, no para explicarlas.
+
+El usuario espera resultados, no un análisis del proceso.
+
+Por defecto:
+
+- Resolver.
+- Diseñar.
+- Entregar.
+
+Solo explicar el razonamiento cuando el usuario lo solicite expresamente.

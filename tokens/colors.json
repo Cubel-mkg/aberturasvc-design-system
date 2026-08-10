@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "primary": {
+      "name": "Azul Corporativo",
+      "hex": "#074584"
+    },
+    "white": {
+      "name": "Blanco",
+      "hex": "#FFFFFF"
+    },
+    "black": {
+      "name": "Negro",
+      "hex": "#000000"
+    }
+  },
+  "rules": {
+    "primary_usage": "El Azul Corporativo es el color principal de identidad.",
+    "white_usage": "El blanco se utiliza como color de aire, fondo o texto según el contraste.",
+    "black_usage": "El negro se utiliza únicamente como recurso de contraste.",
+    "restriction": "No utilizar colores adicionales para crear acentos, botones, badges o elementos decorativos si no están documentados en este sistema."
+  }
+}

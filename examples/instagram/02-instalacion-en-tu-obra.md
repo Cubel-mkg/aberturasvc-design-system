@@ -38,9 +38,7 @@ El foco está puesto en el servicio y la ejecución.
 
 - Constructoras
 - Arquitectos
-- Desarrolladores
-- Clientes construyendo una vivienda
-
+- Clientes particulares
 ---
 
 # Componentes utilizados

@@ -2,166 +2,198 @@
 
 # Objetivo
 
-Este documento define el proceso creativo completo que debe seguir la IA antes de desarrollar cualquier pieza para Aberturas VC.
+Este documento define el flujo obligatorio que debe seguir la IA antes de crear cualquier pieza para Aberturas VC.
 
-No debe omitirse ningún paso.
+Nunca comenzar a diseñar directamente.
 
-Nunca comenzar un diseño directamente.
-
----
-
-# Flujo general
-
-Toda solicitud debe recorrer el siguiente proceso.
-
-1. Comprender el pedido.
-
-↓
-
-2. Identificar el objetivo comercial.
-
-↓
-
-3. Seleccionar el público principal.
-
-↓
-
-4. Identificar públicos compatibles.
-
-↓
-
-5. Elegir un único beneficio.
-
-↓
-
-6. Seleccionar la emoción principal.
-
-↓
-
-7. Construir el concepto creativo.
-
-↓
-
-8. Definir la dirección de arte.
-
-↓
-
-9. Seleccionar el patrón.
-
-↓
-
-10. Definir el layout.
-
-↓
-
-11. Seleccionar fotografía.
-
-↓
-
-12. Seleccionar componentes.
-
-↓
-
-13. Escribir el copy.
-
-↓
-
-14. Seleccionar CTA.
-
-↓
-
-15. Ejecutar control de calidad.
-
-↓
-
-16. Construir el prompt final para Claude Design.
-
-Nunca alterar este orden.
+Toda decisión debe surgir del proceso documentado en este archivo.
 
 ---
 
-# Documentos obligatorios
+# Paso 1 · Comprender el pedido
 
-Cada etapa debe consultar la documentación correspondiente.
+Identificar:
 
-Objetivo
+- Tipo de pieza.
+- Objetivo comercial.
+- Producto.
+- Público.
+- Beneficio.
+- Plataforma.
 
-→ CAMPAIGN_STRATEGY.md
-
-Público
-
-→ AUDIENCE.md
-
-Beneficio
-
-→ POSITIONING.md
-
-Emoción
-
-→ EMOTIONS.md
-
-Concepto
-
-→ CREATIVE_CONCEPTS.md
-
-Dirección de arte
-
-→ ART_DIRECTION.md
-
-Patrón
-
-→ DECISION_TREE.md
-
-Layout
-
-→ LAYOUT_RULES.md
-
-Fotografía
-
-→ PHOTOGRAPHY.md
-
-Componentes
-
-→ COMPONENTS
-
-Copy
-
-→ VOICE.md
-
-CTA
-
-→ CTA.md
-
-Control de calidad
-
-→ QUALITY_CHECKLIST.md
-
-Prompt
-
-→ PROMPT_ENGINE.md
+Si falta información importante, solicitarla antes de continuar.
 
 ---
 
-# Regla
+# Paso 2 · Definir la estrategia
 
-Nunca saltar una etapa.
+Consultar:
 
-Cada decisión debe apoyarse en la documentación.
+CAMPAIGN_STRATEGY.md
 
-Si falta información, detener el proceso.
+Determinar:
 
-Nunca improvisar.
+- Tipo de campaña.
+- Objetivo.
+- Beneficio principal.
+- Emoción.
+- Concepto creativo.
+
+No continuar sin definir la estrategia.
 
 ---
 
-# Resultado esperado
+# Paso 3 · Identificar el público
 
-Al finalizar este flujo la IA debe ser capaz de:
+Consultar:
 
-- Diseñar una placa.
-- Diseñar un carrusel.
-- Diseñar una historia.
-- Construir el prompt para Claude Design.
-- Justificar todas las decisiones tomadas.
+AUDIENCE.md
 
-Todo respetando la identidad visual de Aberturas VC.
+Definir:
+
+- Público principal.
+- Públicos compatibles.
+
+La selección debe realizarse según el objetivo comercial de la campaña.
+
+Nunca asumir que todas las campañas están dirigidas a clientes particulares.
+
+---
+
+# Paso 4 · Definir la dirección de arte
+
+Consultar:
+
+ART_DIRECTION.md
+
+Determinar:
+
+- Estilo.
+- Encuadre.
+- Iluminación.
+- Ambiente.
+- Sensación visual.
+
+---
+
+# Paso 5 · Seleccionar recursos
+
+Consultar:
+
+ASSET_USAGE.md
+
+Luego:
+
+ASSET_INDEX.md
+
+Buscar:
+
+- Fotografías.
+- Logos.
+- Iconografía.
+
+Nunca generar recursos nuevos si existen recursos oficiales adecuados.
+
+---
+
+# Paso 6 · Seleccionar la fotografía
+
+Consultar:
+
+PHOTO_SELECTION.md
+
+Luego consultar el INDEX.md correspondiente dentro de assets/photos/.
+
+Seleccionar la fotografía que mejor represente:
+
+- El beneficio principal.
+- El público principal.
+- La emoción.
+- La dirección de arte.
+
+---
+
+# Paso 7 · Elegir el patrón
+
+Consultar:
+
+DECISION_TREE.md
+
+Seleccionar:
+
+- Pattern.
+- Componentes.
+
+Nunca elegir componentes que no aporten valor.
+
+---
+
+# Paso 8 · Construir el mensaje
+
+Consultar:
+
+VOICE.md
+
+Redactar:
+
+- Título.
+- Beneficio.
+- CTA.
+
+El beneficio debe aparecer antes que la característica técnica.
+
+---
+
+# Paso 9 · Diseñar
+
+Aplicar:
+
+- VISUAL_DNA.md
+- COMPOSITION.md
+- SPACING.md
+- COLORS.md
+- TYPOGRAPHY.md
+
+Mantener:
+
+- Un único mensaje.
+- Mucho espacio negativo.
+- Fotografía protagonista.
+
+---
+
+# Paso 10 · Control de calidad
+
+Consultar:
+
+QUALITY_CHECKLIST.md
+
+Verificar:
+
+□ Identidad.
+
+□ Fotografía.
+
+□ Jerarquía.
+
+□ Tipografía.
+
+□ Componentes.
+
+□ CTA.
+
+□ Logo.
+
+---
+
+# Paso 11 · Entrega
+
+Antes de entregar responder:
+
+¿La pieza parece realizada por Aberturas VC?
+
+Si la respuesta es NO,
+
+volver al paso correspondiente.
+
+Nunca entregar una pieza que no represente correctamente la identidad de la marca.

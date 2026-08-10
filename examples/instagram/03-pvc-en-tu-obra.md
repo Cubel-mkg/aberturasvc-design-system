@@ -38,7 +38,6 @@ El objetivo es demostrar disponibilidad, calidad de fabricación y preparación 
 
 - Arquitectos
 - Constructoras
-- Desarrolladores
 - Clientes particulares
 
 ---

@@ -40,9 +40,7 @@ Busca fortalecer la percepción de marca.
 
 - Arquitectos
 - Constructoras
-- Desarrolladores
-- Familias construyendo su vivienda
-
+- Clientes particulares
 ---
 
 # Componentes utilizados

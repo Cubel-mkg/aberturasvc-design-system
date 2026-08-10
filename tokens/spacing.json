@@ -1,0 +1,8 @@
+{
+  "spacing": {
+    "principle": "Utilizar suficiente espacio negativo para mantener una composición limpia y profesional.",
+    "rule": "No saturar la pieza con texto, componentes o elementos decorativos.",
+    "safe_area": "Respetar siempre el área de seguridad definida por el Design System.",
+    "hierarchy": "Los elementos deben mantener una separación visual clara según su nivel de importancia."
+  }
+}

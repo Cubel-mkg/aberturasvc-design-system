@@ -99,16 +99,16 @@ Valoran:
 
 ---
 
-## Familias
+## Clientes particulares
 
 Buscan mejorar su hogar.
 
 Valoran:
 
-- confort
-- seguridad
-- ahorro energético
-- tranquilidad
+- Confort
+- Seguridad
+- Ahorro energético
+- Tranquilidad
 
 ---
 

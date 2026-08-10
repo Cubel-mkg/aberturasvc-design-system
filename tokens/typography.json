@@ -1,0 +1,16 @@
+{
+  "typography": {
+    "primary": {
+      "family": "Anton",
+      "usage": [
+        "Títulos principales",
+        "CTAs",
+        "Mensajes de alto impacto"
+      ]
+    }
+  },
+  "rules": {
+    "max_families": 2,
+    "decorative_effects": false
+  }
+}
