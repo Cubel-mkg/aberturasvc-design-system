@@ -7,6 +7,19 @@
         "CTAs",
         "Mensajes de alto impacto"
       ]
+    },
+    "secondary": {
+      "family": "Futura",
+      "variants": [
+        "Book",
+        "Light"
+      ],
+      "usage": [
+        "Subtítulos",
+        "Textos de apoyo",
+        "Información secundaria",
+        "Microcopy"
+      ]
     }
   },
   "rules": {
