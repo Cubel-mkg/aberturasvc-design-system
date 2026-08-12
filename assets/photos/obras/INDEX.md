@@ -40,3 +40,13 @@ La aplicación concreta depende del contenido visible de cada fotografía.
 No inventar información sobre la obra, producto o proyecto que no pueda verificarse mediante la fotografía o documentación disponible.
 
 Priorizar siempre fotografías reales de Aberturas VC frente a imágenes genéricas o generadas.
+
+---
+
+## Catálogo maestro
+
+La información detallada de las fotografías analizadas se encuentra en:
+
+`assets/photos/PHOTO_CATALOG.md`
+
+Consultar este catálogo antes de seleccionar una fotografía para una campaña.

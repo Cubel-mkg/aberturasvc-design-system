@@ -31,3 +31,13 @@ Estas fotografías tienen prioridad sobre imágenes de stock o imágenes generad
 No inventar características del producto que no puedan verificarse visualmente en la fotografía o mediante la documentación del producto.
 
 La fotografía debe utilizarse respetando su contenido real.
+
+---
+
+## Catálogo maestro
+
+La información detallada de las fotografías analizadas se encuentra en:
+
+`assets/photos/PHOTO_CATALOG.md`
+
+Consultar este catálogo antes de seleccionar una fotografía para una campaña.
